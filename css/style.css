@@ -1,4 +1,25 @@
-body {
-    background: #f0f;
-    color: #060;
+#nav{
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+#ltcol{
+    height: 600px;
+    background-color: tan;
+    color:black;
+
+}
+
+#rtcol{
+    height: 600px;
+    background-color: green;
+    color: black;
+
+}
+
+#footer{
+    width: 150%;
+    background-color:blue;
+    color: black;
 }
